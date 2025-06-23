@@ -95,7 +95,7 @@ const HeroSection = () => {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ delay: 1.2, duration: 0.5 }}
               className='flex justify-center items-center gap-2 border-white hover:bg-white px-6 py-2 border rounded font-medium text-white hover:text-black transition'
-              href='/pdf/Tasfia_Resume.pdf'
+              href='/pdf/TASFIA_Resume(FrontEnd).pdf'
               download='Tasfia Tabassum Resume(Jr. FrontEnd).pdf'
             >
               <FaDownload />
